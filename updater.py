@@ -9,7 +9,7 @@ import json
 import tempfile
 
 APP_VERSION = "v1.1"
-GITHUB_USER = "nachocett03"
+GITHUB_USER = "nachoctt03"
 GITHUB_REPO = "gymTracker"
 EXE_NAME    = "GymTracker.exe"
 

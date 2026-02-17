@@ -8,9 +8,9 @@ import urllib.request
 import json
 import tempfile
 
-APP_VERSION = "v1.0"
-GITHUB_USER = "TU_USUARIO"
-GITHUB_REPO = "TU_REPOSITORIO"
+APP_VERSION = "v1.1"
+GITHUB_USER = "nachocett03"
+GITHUB_REPO = "gymTracker"
 EXE_NAME    = "GymTracker.exe"
 
 RELEASES_URL = f"https://api.github.com/repos/{GITHUB_USER}/{GITHUB_REPO}/releases/latest"

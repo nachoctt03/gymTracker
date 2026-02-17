@@ -1,0 +1,2 @@
+# gymTracker
+firebase-credentials.json
